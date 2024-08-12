@@ -7,3 +7,6 @@ top hosts
 review analysis
 This dashboard design to help hosts,guests,and data enthusiasts better understand the dynamics of the airbnb market.
 it's been an exciting journey turning raw data into actionable insights.
+screenshot:-
+![Uploading Screenshot 2024-08-12 192451.png…]()
+
