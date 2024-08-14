@@ -8,5 +8,6 @@ review analysis
 This dashboard design to help hosts,guests,and data enthusiasts better understand the dynamics of the airbnb market.
 it's been an exciting journey turning raw data into actionable insights.
 screenshot:-
-![Uploading Screenshot 2024-08-12 192451.png…]()
+![Screenshot 2024-08-12 192451](https://github.com/user-attachments/assets/1587090a-2977-4679-b882-79eb5d8b2a53)
+
 
